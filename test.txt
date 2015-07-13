@@ -1,0 +1,19 @@
+## Another Git Trial Run
+
+Here is some Standared text
+
+* Creating repost test2
+* Cloning in local comp
+* Creating this test file using touch command touch test.txt
+* I updated the text to this format and saved
+* i checked with status command, and noticed an untracked file added, to be staged for committing
+* To add we used command -> git add <filename with extn>
+* To commit we used -> git commit - m "message"
+* commit was complete, we checked git status to confirm
+* we also checked the git log
+* To push the changes -> git push origin master
+
+
+
+
+More text
